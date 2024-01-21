@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zibarnumaldamax/redux-basket.git/static/css/main.e6c13ad2.css",
+    "main.js": "/zibarnumaldamax/redux-basket.git/static/js/main.b3482943.js",
+    "static/js/787.1fd566e0.chunk.js": "/zibarnumaldamax/redux-basket.git/static/js/787.1fd566e0.chunk.js",
+    "index.html": "/zibarnumaldamax/redux-basket.git/index.html",
+    "main.e6c13ad2.css.map": "/zibarnumaldamax/redux-basket.git/static/css/main.e6c13ad2.css.map",
+    "main.b3482943.js.map": "/zibarnumaldamax/redux-basket.git/static/js/main.b3482943.js.map",
+    "787.1fd566e0.chunk.js.map": "/zibarnumaldamax/redux-basket.git/static/js/787.1fd566e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b3482943.js"
+  ]
+}
